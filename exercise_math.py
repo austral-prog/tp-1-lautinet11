@@ -9,3 +9,4 @@ def math():
     print(int(z1))
     print(a % b)
     print(a / b)
+math()
